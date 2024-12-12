@@ -4,3 +4,7 @@ discord embed inspired lots by https://github.com/vermaysha/Hoyolab-Auto-Daily-C
 
 docs helped with the webhook embed formating https://discord.com/developers/docs/resources/webhook
 https://discord.com/developers/docs/resources/message#embed-object
+
+
+from looking at other repo, the main changes that breaks the claim most of the time is the signing link. in the current version of the link doesnt have the act_id attached at the end like how info and reward links have, but in the past it seems to have that extension.
+act_id = "e202102251931481" the same through out versions and account
