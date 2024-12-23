@@ -1,4 +1,5 @@
 # genshin-checkin
+# DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY, THIS CAN GET YOUR MIHOYO ACCOUNT SUSPENDED
 **SAUCE:**<br>
 - loosely followed the network capture cookie and window task scheduler from [rohk7w](https://www.reddit.com/r/Genshin_Impact/comments/rohk7w/quick_tutorial_for_building_your_own_hoyolab/)<br>
 - discord embed inspired lots by [vermaysha](https://github.com/vermaysha/Hoyolab-Auto-Daily-Checkin)<br>
